@@ -60,8 +60,8 @@ Request Body:
 
 ```JSON
 {
-"name": "Teknofest-Drone-1",
-"model": "Jetson Orin NX"
+"name": "My-Drone-1",
+"model": "Example-Model-v1"
 }
 ```
 
