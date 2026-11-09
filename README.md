@@ -63,8 +63,9 @@ Request Body:
 "name": "Teknofest-Drone-1",
 "model": "Jetson Orin NX"
 }
-Response (200 OK):
 ```
+
+Response (200 OK):
 
 ```JSON
 {
