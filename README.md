@@ -72,9 +72,9 @@ Response (200 OK):
 
 "id": 1,
 
-"name": "Teknofest-Drone-1",
+"name": "My-Drone-1",
 
-"model": "Jetson Orin NX",
+"model": "Example-Model-v1",
 
 "apiKey": "f47ac10b-58cc-4372-a567-0e02b2c3d479"
 
